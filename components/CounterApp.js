@@ -1,8 +1,10 @@
 import React from 'react'
-
+import { View,Text } from 'react-native'
 const CounterApp = () => {
   return (
-    <div>CounterApp</div>
+    <View>
+        <Text>Hello Word</Text>
+    </View>
   )
 }
 

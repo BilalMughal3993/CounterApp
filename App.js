@@ -8,6 +8,7 @@ const App = () => {
   return (
     <View>
       {/* <FlatListD/> */}
+      <CounterApp/>
 
     </View>
   )
